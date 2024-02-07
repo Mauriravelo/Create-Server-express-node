@@ -1,0 +1,19 @@
+{
+  "name": "colors-node-curso",
+  "version": "0.0.1",
+  "description": "un curso de node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitchub.com/Mauriravelo/modulos-instalar-colors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
